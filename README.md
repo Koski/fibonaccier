@@ -1,9 +1,10 @@
-#Fibonaccier
+# Fibonaccier
+
 This simple python program consists of a main which takes a positive integer command line input and calculates the Fibonacci number denoted by the given input number.
 
 Note that at least on the author's machine the maximum number with which the program works is 984. Any number after that results in recursion error of max depth.
 
-###Prequisite
+### Prequisite
 
 The programs has been verified to work with Python version 3.9.8. Later versions might work as well but not guaranteed.
 
